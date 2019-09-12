@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little bit about Hannah
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a senior history major at Williams college currently enrolled in My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
