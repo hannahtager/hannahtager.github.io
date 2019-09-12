@@ -11,7 +11,9 @@ Greetings! My name is Hannah Tager and I am a senior History major at Williams C
 
 While I have never done formal programming before, I spent some time this summer working on the wordpress website for a non-profit. Had I known half of the html I know now I could've saved myself quite the headache--oh well!
 
+Boring fact about me: My middle name is Marjorie
+
 I have included some images of my designs here: 
 
-![alt text](image.jpg)
-
+![An image of a navy sundress sewn by Hannah](sundress.JPG)
+![An image of a gold and black corset sewn by Hannah](corset.JPG)
