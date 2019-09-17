@@ -2,7 +2,7 @@
 layout: post
 title: My Sewing and Programming Backgrounds
 subtitle: My first update
-bigimg: ![An image of a navy sundress sewn by Hannah] /img/thread.jpg
+bigimg: /img/thread.jpg
 tags: [projects, electronic textiles, computer science]
 comments: true
 ---
