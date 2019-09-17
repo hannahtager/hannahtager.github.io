@@ -14,6 +14,7 @@ While I have never done formal programming before, I spent some time this summer
 
 
 I have included some images of my designs here: 
+![](image.png)
 
-![An image of a navy sundress sewn by Hannah]/img/sundress.JPG
-![An image of a gold and black corset sewn by Hannah]/img/corset.JPG
+![An image of a navy sundress sewn by Hannah](sundress.png)
+![An image of a gold and black corset sewn by Hannah](corset.png)
