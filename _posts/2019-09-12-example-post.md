@@ -14,6 +14,6 @@ While I have never done formal programming before, I spent some time this summer
 
 Check out some examples of my work here:
 
-![a sundress I made](https://github.com/hannahtager/hannahtager.github.io/blob/master/img/sundress.png)
-![a corset I made](https://github.com/hannahtager/hannahtager.github.io/blob/master/img/corset.png)
+![a sundress I made](https://hannahtager.github.io/img/sundress.png)
+![a corset I made](https://hannahtager.github.io/img/corset.png)
 
