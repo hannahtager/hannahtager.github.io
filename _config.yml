@@ -22,8 +22,6 @@ description: A website to see my project and assignment designs in the CS 103 cl
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - HTML Cheat Sheet: "https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
     - markdown Cheat Sheet: "https://www.markdownguide.org/cheat-sheet/"
   My first post: "https://hannahtager.github.io/2019-09-12-example-post/" 
 
