@@ -4,13 +4,12 @@ title: About me
 subtitle: A little bit about Hannah
 ---
 
-I am a senior history major at Williams college currently enrolled in My name is Inigo Montoya. I have the following qualities:
+I am a senior history major at Williams college currently enrolled in Electronic Textiles! Learn a little bit about me by seeing [what books I read](https://www.goodreads.com/user/show/15065927-hannah-tager) and [which songs I listen to!](https://sites.williams.edu/wcfm/) 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Comment a song of book below that you think I should check out next! And make sure to check my website often to see what sewing projects I'm working on. 
 
-What else do you need?
+**Three Boring Facts About Moi**
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+1. I am right handed
+2. I like pasta
+3. I know more than ten people
