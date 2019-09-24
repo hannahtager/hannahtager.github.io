@@ -38,14 +38,14 @@ avatar: "/img/hmtMom.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#228B22"
-navbar-text-col: "#BA55D3"
+navbar-text-col: "#173F5F"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#BA55D3"
-hover-col: "#BA55D3"
+link-col: "#173F5F"
+hover-col: "#173F5F"
 footer-col: "#228B22"
-footer-text-col: "#BA55D3"
-footer-link-col: "#BA55D3"
+footer-text-col: "#173F5F"
+footer-link-col: "##173F5F"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
