@@ -1,8 +1,7 @@
 ---
 layout: post
-title: My Sewing and Programming Backgrounds
-subtitle: My first update
-bigimg: /img/thread.jpg
+title: Sewing Sampler Project
+subtitle: An example of some embroidary stitches
 tags: [projects, electronic textiles, computer science]
 comments: true
 ---
