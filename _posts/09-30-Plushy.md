@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Slushie the Plushy
-image: https://hannahtager.github.io/img/PizzaRat.jpg
+subtitle: An example of some embroidary stitches
+image: hannahtager.github.io/img/plushyFront.jpg
+tags: [projects, electronic textiles, computer science]
+comments: true
 ---
 
 Help me welcome Slushie the Plushy into the world! I created this light-up stuffy using leds, a button, a switch and a battery pack from LilyPad Arduino components.
@@ -13,10 +16,13 @@ In terms of a tip to my former self or to any other person embarking on this pro
 See some images below of my prototyping stage with a paper diagram, alligator clips, and then the finished project (front and back!). 
 
 Paper diagram:
+![Image of a paper diagram of the circuits for the plushy project](hannahtager.github.io/img/Plushy9.30.19.jpeg)
 
 Alligator clip prototype with circuit components:
+![Image of a prototype of the plushy made with alligator clips](hannahtager.github.io/img/plushyAlligators.jpg)
 
 Slushie the Plushy! (front)
+![Image of a prototype of the finished front of the light-up plushy](hannahtager.github.io/img/plushyFront.jpg)
 
 Slushie the Plushy! (back)
-
+![Image of a prototype of the finished back of the light-up plushy](hannahtager.github.io/img/plushyBack.jpg)
