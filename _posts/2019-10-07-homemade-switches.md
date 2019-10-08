@@ -14,6 +14,6 @@ I hope to return and add a stronger battery so that all five petals can light up
 One trick is to be more aware of energy loss that can happen through switches. Had I known that, I wouldn't have been as ambitious and chosen five leds. 
 
 Check the pictures below for photos of my alligator clip prototype and the final product.  
-![Screenshot of the alligator clip protype of of Hannah's homemade switches. ](hannahtager.github.io/img/alligatorSwitches.JPG)
+![Screenshot of the alligator clip protype of of Hannah's homemade switches.](hannahtager.github.io/img/alligatorSwitches.JPG)
 ![Screenshot of the Hannah's homemade switches project](hannahtager.github.io/img/finishedSwitches.JPG)
 ![Screenshot of the back of Hannah's homemade switches project](hannahtager.github.io/img/homemadeSwitchesBack.JPG)
