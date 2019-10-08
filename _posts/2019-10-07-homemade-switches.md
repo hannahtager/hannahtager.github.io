@@ -16,3 +16,4 @@ One trick is to be more aware of energy loss that can happen through switches. H
 Check the pictures below for photos of my alligator clip prototype and the final product.  
 ![Screenshot of the alligator clip protype of of Hannah's homemade switches. ](https://hannahtager.github.io/img/alligatorSwitches.jpg)
 ![Screenshot of the Hannah's homemade switches project](https://hannahtager.github.io/img/finishedSwitches.jpg)
+![Screenshot of the back of Hannah's homemade switches project](https://hannahtager.github.io/img/finishedSwitches.jpg)
