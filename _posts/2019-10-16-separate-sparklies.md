@@ -1,5 +1,5 @@
 
---
+---
 layout: post
 title: Separate Sparklies
 subtitle: 3 programs to light 3 different patterns that mimic the variety of flashing patterns of fireflies. 
