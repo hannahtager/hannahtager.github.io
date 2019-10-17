@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title: Separate Sparklies
-subtitle: 3 programs to light 3 different patterns that mimic the variety of flashing patterns of fireflies. 
-tags: [projects, electronic textiles, computer science, circuitry]
+subtitle: 3 programs that mimic the flash patterns of fireflies
+tags: [projects, electronic textiles, computer science, arduino]
 comments: true
 ---
 For this project I created a 3 separate programming sets that light up the ProtoSnap LEDS to light with 3 different patterns that demonstrate the flashing patterns of fireflies. 
