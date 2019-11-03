@@ -2,7 +2,7 @@
 layout: post
 title: Random Colors
 subtitle: A program that makes an LED light up with a random color when a button is pressed. 
-image: hannahtager.github.io/img/sparkliesPic.png
+image: hannahtager.github.io/img/colorWheel.png
 tags: [projects, electronic textiles, computer science]
 comments: true
 ---
@@ -13,3 +13,5 @@ As a tip to my past self I would say that I should maybe find a way to write the
 
 Here are pictures of the color wheel and the on board LED lighting up. 
 
+![Photo of the 12 colors color wheel.](https://hannahtager.github.io/img/colorWheel.png)
+![Photo of the random colors project.](https://hannahtager.github.io/img/randomColors.png)
