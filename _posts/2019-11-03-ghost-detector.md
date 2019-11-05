@@ -2,7 +2,6 @@
 layout: post
 title: Ghost Detector
 subtitle: A program that warns you when a ghost is near 
-image: hannahtager.github.io/img/colorWheel.png
 tags: [projects, electronic textiles, computer science]
 comments: true
 ---
