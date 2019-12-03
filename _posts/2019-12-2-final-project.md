@@ -41,8 +41,9 @@ Image of the final Paper Prototype:
 Image of the alligator clip protoype:
 ![Image of the alligator clip prototype of the babe belt](https://hannahtager.github.io/img/babeBeltAlligator.png)
 
-Video of the alligator clip prototype working:
-[![alligator clip prototype](https://www.youtube.com/watch?v=t8QBjq4gkdM](https://hannahtager.github.io/img/babeBeltAlligatorVid.png)
+
+[PLEASE WATCH THIS VIDEO OF THE ALLIGATOR CLIP PROTOTYPE WORKING](https://www.youtube.com/watch?v=t8QBjq4gkdM)
+
 
 ![Video of the alligator clip prototype of the babe belt](https://www.youtube.com/watch?v=t8QBjq4gkdM&feature=youtu.be)
 
@@ -52,4 +53,4 @@ Image of the front of the finished babe belt:
 Image of the back of the finished babe belt:
 ![Image of the back of the finished babe belt](https://hannahtager.github.io/img/babeBeltBack.png)
 
-Video of the finished babe belt working:[![babe belt working](https://www.youtube.com/watch?v=4IlPs0kCsWo](https://hannahtager.github.io/img/babeBeltFinishedVid.png)
+[PLEASE WATCH THIS VIDEO OF THE FINISHED BABE BELT WORKING](https://www.youtube.com/watch?v=4IlPs0kCsWo)
