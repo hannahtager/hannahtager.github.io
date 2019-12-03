@@ -1,0 +1,54 @@
+---
+layout: post
+title: Final Project: "The Babe Belt"
+subtitle: A rape prevention belt
+image: hannahtager.github.io/img/babeBeltFront.png
+tags: [projects, electronic textiles, computer science]
+comments: true
+---
+
+We have finally finished our final projects! For this project, I created "The Babe Belt."
+This belt, a modern conception of a chastity belt, will warn its wearer when he, she, or they is too inebriated to be engaging in sexual activity. Alternatively, if the wearer is in the right mind set, this belt sets the perfect mood for a good situation.
+
+The Babe belt will be activated when it is dark out and once the snap closures come apart. If the snaps are torn apart without entering the ”secret code,” the lights on the belt will flash and the buzzer will sound a warning signal. If the secret code is entered on the button (three clicks) and the lights are off, then the lights will twinkle to set the mood.
+
+Here are the necessary materials:
+
+6 red LilyPad LEDs
+6 yellow LilyPadLEDs
+Conductive thread
+Pink embroidery thread
+Yellow embroidery thread
+1 LiPo Batter
+1 LilyPad Arduino
+1 Speaker
+1 Light sensor
+1 LilyPad Button
+3 Sewable snaps
+1 yard polyester cotton zebra print fabric
+
+My tips to my past self are the following:
+
+1. Although I tried to fix the problem of dim leds by putting them on separate pins, I would look at other methods of maximizing the voltage leds receive. 
+2. I wish I could find a reason for why the belt is so temperamental, or perhaps look into functions like Debounce so that the belt isn't so sensitive.
+3. Make all connections 3x stronger than you think they need to be!
+
+Please check out the following images and videos of my design throughout its construction process.
+
+Image of the final Paper Prototype:
+![Image of a paper diagram of the babe belt](https://hannahtager.github.io/img/babeBeltPaper.png)
+
+Image of the alligator clip protoype:
+![Image of the alligator clip prototype of the babe belt](https://hannahtager.github.io/img/babeBeltAlligator.png)
+
+Video of the alligator clip prototype working:
+![Video of the alligator clip prototype of the babe belt](https://www.youtube.com/watch?v=t8QBjq4gkdM&feature=youtu.be)
+
+Image of the front of the finished babe belt:
+![Image of the front of the finished babe belt](https://hannahtager.github.io/img/babeBeltFront.png)
+
+Image of the back of the finished babe belt:
+![Image of the back of the finished babe belt](https://hannahtager.github.io/img/babeBeltBack.png)
+
+Video of the finished babe belt working:
+![Video of the babe belt working](https://www.youtube.com/watch?v=4IlPs0kCsWo)
