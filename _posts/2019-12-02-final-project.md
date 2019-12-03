@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Final Project: "The Babe Belt"
-subtitle: A light up stuffed animal project
+subtitle: Post about the final project for CS 103
 image: hannahtager.github.io/img/babeBeltFront.png
 tags: [projects, electronic textiles, computer science]
 comments: true
 ---
-
-
 
 We have finally finished our final projects! For this project, I created "The Babe Belt."
 This belt, a modern conception of a chastity belt, will warn its wearer when he, she, or they is too inebriated to be engaging in sexual activity. Alternatively, if the wearer is in the right mind set, this belt sets the perfect mood for a good situation.
